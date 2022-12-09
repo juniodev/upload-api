@@ -8,7 +8,7 @@ const { fileName, fileSize } = require('../utils/func')
 const uploadFile = multer(
   {
     limits: {
-      fileSize: fileSize()
+      fileSize: fileSize(20)
     },
     storage: multer.diskStorage({
       destination: 'uploads',
