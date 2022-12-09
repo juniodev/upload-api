@@ -1,0 +1,8 @@
+{
+  "name": "upload-files",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "https://github.com/juniodeveloper/upload-files.git",
+  "author": "juniodeveloper <junio@juniodev.com>",
+  "license": "MIT"
+}
